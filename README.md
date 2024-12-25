@@ -78,7 +78,7 @@ Below are some exciting results you can achieve:
 
 | **Content Image** 🟠 | **Style Image** 🖌️ | **Result** 🎉 |
 |-----------------------|---------------------|--------------|
-| ![content](images/content_sample.jpg) | ![style](Modern Art with Vincent Van Gogh style inspiration) | ![styled](![image](https://github.com/user-attachments/assets/5cb6c24d-add0-4c43-ab75-84fa735a2236)
+| ![content](images/content_sample.jpg) | (Modern Art with Vincent Van Gogh style inspiration) | ![styled](![image](https://github.com/user-attachments/assets/5cb6c24d-add0-4c43-ab75-84fa735a2236)
 ) |
 
 The possibilities are endless—blend various styles with diverse content images to explore your creativity!
